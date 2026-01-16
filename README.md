@@ -22,11 +22,13 @@ Explanation: nums[0] + nums[1] == 7, so we return [0, 1]
 
 
 
-#Date:15/01/2026
+#Date:16/01/2026
 
 
 Best Time to Buy and Sell Stock
-
+Easy
+Company Tags
+Hints
 You are given an integer array prices where prices[i] is the price of NeetCoin on the ith day.
 
 You may choose a single day to buy one NeetCoin and choose a different day in the future to sell it.
@@ -38,4 +40,3 @@ Example 1:
 Input: prices = [10,1,5,6,7,1]
 
 Output: 6
-  
