@@ -56,7 +56,7 @@ Input: nums = [1, 2, 3, 3]
 
 Output: true
 
-#Date:17/01/2026
+#Date:18/01/2026
 
 Products of Array Except Self
 Medium
@@ -78,3 +78,19 @@ Example 1:
 Input: nums = [1,2,4,6]
 
 Output: [48,24,12,8]
+
+#Date:19/01/2026
+
+Maximum Subarray
+Medium
+Company Tags
+Hints
+Given an array of integers nums, find the subarray with the largest sum and return the sum.
+
+A subarray is a contiguous non-empty sequence of elements within an array.
+
+Example 1:
+
+Input: nums = [2,-3,4,-2,2,1,-1,4]
+
+Output: 8
