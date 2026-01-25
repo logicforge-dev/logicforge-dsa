@@ -1,7 +1,7 @@
 # logicforge-dsa
 A structured collection of Data Structures and Algorithms implemented with clear explanations, optimized solutions, and interview-focused problem solving.
 
-#Date:15/01/2026
+# Date:15/01/2026
 Two Sum
 Easy
 Company Tags
@@ -22,7 +22,7 @@ Explanation: nums[0] + nums[1] == 7, so we return [0, 1]
 
 
 
-#Date:16/01/2026
+# Date:16/01/2026
 
 
 Best Time to Buy and Sell Stock
@@ -42,7 +42,7 @@ Input: prices = [10,1,5,6,7,1]
 Output: 6
 
 
-#Date:17/01/2026
+# Date:17/01/2026
 
 Contains Duplicate
 Easy
@@ -56,7 +56,7 @@ Input: nums = [1, 2, 3, 3]
 
 Output: true
 
-#Date:18/01/2026
+# Date:18/01/2026
 
 Products of Array Except Self
 Medium
@@ -79,7 +79,7 @@ Input: nums = [1,2,4,6]
 
 Output: [48,24,12,8]
 
-#Date:19/01/2026
+# Date:19/01/2026
 
 Maximum Subarray
 Medium
@@ -95,7 +95,7 @@ Input: nums = [2,-3,4,-2,2,1,-1,4]
 
 Output: 8
 
-#Date:20/02/2026
+# Date:20/02/2026
 
 Maximum Product Subarray
 Medium
@@ -113,7 +113,7 @@ Input: nums = [1,2,-3,4]
 
 Output: 4
 
-#Date : 21/01/2026
+# Date : 21/01/2026
 
 Find Minimum in Rotated Sorted Array
 Medium
