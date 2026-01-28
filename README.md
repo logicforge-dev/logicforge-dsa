@@ -247,8 +247,17 @@ Input: nums = [1,2,3]
 Output: 0
 Explanation: Since there are 3 numbers, the range is [0,3]. The missing number is 0 since it does not appear in nums.
 
+# Date:28/01/2026
 
+Reverse Bits
+Easy
+Company Tags
+Hints
+Given a 32-bit unsigned integer n, reverse the bits of the binary representation of n and return the result.
 
+Example 1:
 
+Input: n = 00000000000000000000000000010101
 
-
+Output:    2818572288 (10101000000000000000000000000000)
+Explanation: Reversing 00000000000000000000000000010101, which represents the unsigned integer 21, gives us 10101000000000000000000000000000 which represents the unsigned integer 2818572288.
