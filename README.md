@@ -316,6 +316,22 @@ Input: nums = [9,1,4,2,3,3,7]
 Output: 4
 Explanation: The longest increasing subsequence is [1,2,3,7], which has a length of 4.
 
+# Date: 01/02/2026
 
+Longest Common Subsequence
+Medium
+Company Tags
+Hints
+Given two strings text1 and text2, return the length of the longest common subsequence between the two strings if one exists, otherwise return 0.
 
+A subsequence is a sequence that can be derived from the given sequence by deleting some or no elements without changing the relative order of the remaining characters.
 
+For example, "cat" is a subsequence of "crabt".
+A common subsequence of two strings is a subsequence that exists in both strings.
+
+Example 1:
+
+Input: text1 = "cat", text2 = "crabt" 
+
+Output: 3 
+Explanation: The longest common subsequence is "cat" which has a length of 3.
