@@ -335,3 +335,21 @@ Input: text1 = "cat", text2 = "crabt"
 
 Output: 3 
 Explanation: The longest common subsequence is "cat" which has a length of 3.
+
+# Date: 02/02/2026
+Word Break
+Medium
+Company Tags
+Hints
+Given a string s and a dictionary of strings wordDict, return true if s can be segmented into a space-separated sequence of dictionary words.
+
+You are allowed to reuse words in the dictionary an unlimited number of times. You may assume all dictionary words are unique.
+
+Example 1:
+
+Input: s = "neetcode", wordDict = ["neet","code"]
+
+Output: true
+Explanation: Return true because "neetcode" can be split into "neet" and "code".
+
+
