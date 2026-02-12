@@ -22,6 +22,8 @@ Explanation: nums[0] + nums[1] == 7, so we return [0, 1]
 
 
 
+
+
 # Date:16/01/2026
 
 
@@ -561,5 +563,28 @@ Input: heights = [
 ]
 
 Output: [[0,2],[0,4],[1,0],[1,1],[1,2],[1,3],[1,4],[2,0]]
+
+
+# Date:12/02/2026
+
+Number of Islands
+Medium
+Topics
+Company Tags
+Hints
+Given a 2D grid grid where '1' represents land and '0' represents water, count and return the number of islands.
+
+An island is formed by connecting adjacent lands horizontally or vertically and is surrounded by water. You may assume water is surrounding the grid (i.e., all the edges are water).
+
+Example 1:
+
+Input: grid = [
+    ["0","1","1","1","0"],
+    ["0","1","0","1","0"],
+    ["1","1","0","0","0"],
+    ["0","0","0","0","0"]
+  ]
+Output: 1
+
 
 
