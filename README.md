@@ -607,3 +607,30 @@ Input: nums = [2,20,4,10,3,4,5]
 Output: 4
 Explanation: The longest consecutive sequence is [2, 3, 4, 5].
 
+# Date:14/02/2026
+
+Alien Dictionary
+Hard
+Topics
+Company Tags
+Hints
+There is a foreign language which uses the latin alphabet, but the order among letters is not "a", "b", "c" ... "z" as in English.
+
+You receive a list of non-empty strings words from the dictionary, where the words are sorted lexicographically based on the rules of this new language.
+
+Derive the order of letters in this language. If the order is invalid, return an empty string. If there are multiple valid order of letters, return any of them.
+
+A string a is lexicographically smaller than a string b if either of the following is true:
+
+The first letter where they differ is smaller in a than in b.
+a is a prefix of b and a.length < b.length.
+Example 1:
+
+Input: ["z","o"]
+
+Output: "zo"
+Explanation:
+From "z" and "o", we know 'z' < 'o', so return "zo".
+
+
+
