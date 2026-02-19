@@ -697,7 +697,25 @@ Input: intervals = [[1,3],[4,6]], newInterval = [2,5]
 Output: [[1,6]]
 
 
-Date:
+Date: 18/02/2026
+
+# Date:19/02/2026
+Merge Intervals
+Medium
+Topics
+Company Tags
+Hints
+Given an array of intervals where intervals[i] = [start_i, end_i], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.
+
+You may return the answer in any order.
+
+Note: Intervals are non-overlapping if they have no common point. For example, [1, 2] and [3, 4] are non-overlapping, but [1, 2] and [2, 3] are overlapping.
+
+Example 1:
+
+Input: intervals = [[1,3],[1,5],[6,7]]
+
+Output: [[1,5],[6,7]]
 
 
 
