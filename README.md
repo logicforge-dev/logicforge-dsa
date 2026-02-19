@@ -733,5 +733,26 @@ Input: intervals = [[1,2],[2,4],[1,4]]
 Output: 1
 Explanation: After [1,4] is removed, the rest of the intervals are non-overlapping.
 
+# Date:20/02/2026
+
+Meeting Rooms
+Easy
+Topics
+Company Tags
+Hints
+Given an array of meeting time interval objects consisting of start and end times [[start_1,end_1],[start_2,end_2],...] (start_i < end_i), determine if a person could add all meetings to their schedule without any conflicts.
+
+Note: (0,8),(8,10) is not considered a conflict at 8
+
+Example 1:
+
+Input: intervals = [(0,30),(5,10),(15,20)]
+
+Output: false
+Explanation:
+
+(0,30) and (5,10) will conflict
+(0,30) and (15,20) will conflict
+
 
 
