@@ -697,9 +697,7 @@ Input: intervals = [[1,3],[4,6]], newInterval = [2,5]
 Output: [[1,6]]
 
 
-Date: 18/02/2026
-
-# Date:19/02/2026
+# Date:18/02/2026
 Merge Intervals
 Medium
 Topics
